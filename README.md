@@ -1,1 +1,1 @@
-# DSA-Java
+Java Problem Solving Collection
